@@ -1,0 +1,46 @@
+C:\Users\frank\OneDrive\Documentos\Ingenieria Mecatronica\Semestre 6\Programacion Avanzada\SumaBotton\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\frank\OneDrive\Documentos\Ingenieria Mecatronica\Semestre 6\Programacion Avanzada\SumaBotton\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\frank\OneDrive\Documentos\Ingenieria Mecatronica\Semestre 6\Programacion Avanzada\SumaBotton\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\frank\OneDrive\Documentos\Ingenieria Mecatronica\Semestre 6\Programacion Avanzada\SumaBotton\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\frank\OneDrive\Documentos\Ingenieria Mecatronica\Semestre 6\Programacion Avanzada\SumaBotton\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\frank\OneDrive\Documentos\Ingenieria Mecatronica\Semestre 6\Programacion Avanzada\SumaBotton\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\frank\OneDrive\Documentos\Ingenieria Mecatronica\Semestre 6\Programacion Avanzada\SumaBotton\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\frank\OneDrive\Documentos\Ingenieria Mecatronica\Semestre 6\Programacion Avanzada\SumaBotton\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\frank\OneDrive\Documentos\Ingenieria Mecatronica\Semestre 6\Programacion Avanzada\SumaBotton\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\frank\OneDrive\Documentos\Ingenieria Mecatronica\Semestre 6\Programacion Avanzada\SumaBotton\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TerminalSerial.resources
+C:\Users\frank\OneDrive\Documentos\Ingenieria Mecatronica\Semestre 6\Programacion Avanzada\SerialPort\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\frank\OneDrive\Documentos\Ingenieria Mecatronica\Semestre 6\Programacion Avanzada\SerialPort\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\frank\OneDrive\Documentos\Ingenieria Mecatronica\Semestre 6\Programacion Avanzada\SerialPort\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\frank\OneDrive\Documentos\Ingenieria Mecatronica\Semestre 6\Programacion Avanzada\SerialPort\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\frank\OneDrive\Documentos\Ingenieria Mecatronica\Semestre 6\Programacion Avanzada\SerialPort\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TerminalSerial.resources
+C:\Users\frank\OneDrive\Documentos\Ingenieria Mecatronica\Semestre 6\Programacion Avanzada\SerialPort\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\frank\OneDrive\Documentos\Ingenieria Mecatronica\Semestre 6\Programacion Avanzada\SerialPort\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\frank\OneDrive\Documentos\Ingenieria Mecatronica\Semestre 6\Programacion Avanzada\SerialPort\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\frank\OneDrive\Documentos\Ingenieria Mecatronica\Semestre 6\Programacion Avanzada\SerialPort\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\frank\OneDrive\Documentos\Ingenieria Mecatronica\Semestre 6\Programacion Avanzada\SerialPort\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TerminalSerial.resources
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application

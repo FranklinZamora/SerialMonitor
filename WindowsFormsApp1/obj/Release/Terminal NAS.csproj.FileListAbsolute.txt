@@ -1,0 +1,34 @@
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Release\Terminal NAS.exe.config
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Release\Terminal NAS.exe.manifest
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Release\Terminal NAS.application
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Release\Terminal NAS.exe
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Release\Terminal NAS.pdb
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Release\ComponentFactory.Krypton.Docking.dll
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Release\ComponentFactory.Krypton.Navigator.dll
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Release\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Release\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Release\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Release\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Release\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Release\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Release\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Release\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Release\Terminal NAS.csproj.AssemblyReference.cache
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Release\Terminal NAS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Release\WindowsFormsApp1.TerminalSerial.resources
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Release\Terminal NAS.csproj.GenerateResource.cache
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Release\Terminal NAS.csproj.CoreCompileInputs.cache
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Release\Terminal NAS.exe.manifest
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Release\Terminal NAS.application
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Release\Terminal NAS.csproj.CopyComplete
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Release\Terminal NAS.exe
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Release\Terminal NAS.pdb
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Release\FranklinZamora.Properties.Resources.resources
+C:\Users\Ochoa Technology\Documents\SerialPortV0.3\WindowsFormsApp1\obj\Release\Terminal NAS.csproj.AssemblyReference.cache
+C:\Users\Ochoa Technology\Documents\SerialPortV0.3\WindowsFormsApp1\obj\Release\Terminal NAS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ochoa Technology\Documents\SerialPortV0.3\WindowsFormsApp1\obj\Release\WindowsFormsApp1.TerminalSerial.resources
+C:\Users\Ochoa Technology\Documents\SerialPortV0.3\WindowsFormsApp1\obj\Release\FranklinZamora.Properties.Resources.resources
+C:\Users\Ochoa Technology\Documents\SerialPortV0.3\WindowsFormsApp1\obj\Release\Terminal NAS.csproj.GenerateResource.cache
+C:\Users\Ochoa Technology\Documents\SerialPortV0.3\WindowsFormsApp1\obj\Release\Terminal NAS.csproj.CoreCompileInputs.cache
+C:\Users\Ochoa Technology\Documents\SerialPortV0.3\WindowsFormsApp1\obj\Release\Terminal NAS.exe
+C:\Users\Ochoa Technology\Documents\SerialPortV0.3\WindowsFormsApp1\obj\Release\Terminal NAS.pdb

@@ -1,0 +1,26 @@
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Debug\Terminal NAS.csproj.AssemblyReference.cache
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Debug\Terminal NAS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TerminalSerial.resources
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Debug\Terminal NAS.csproj.GenerateResource.cache
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Debug\Terminal NAS.csproj.CoreCompileInputs.cache
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Debug\Terminal NAS.csproj.CopyComplete
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ochoa Technology\Documents\Ochoa Tec\SerialPortV0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

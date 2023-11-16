@@ -13,9 +13,9 @@ Welcome to the Simple Serial Terminal project, a lightweight terminal applicatio
 
 ## How to Use
 
-1.- Connect to Serial Port: Select the appropriate COM port and configure the settings.
-2.- Send and Receive Data: Easily send and receive data using the provided interface.
-3.- Baud Rate: Specifically tailored for communication at 9600 bauds.
+- Connect to Serial Port: Select the appropriate COM port and configure the settings.
+- Send and Receive Data: Easily send and receive data using the provided interface.
+- Baud Rate: Specifically tailored for communication at 9600 bauds.
 
 ## Compatibility
 This terminal is designed to work on Windows systems and is compatible with the .NET framework.
